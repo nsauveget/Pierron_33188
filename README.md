@@ -3,12 +3,12 @@
 TODO : mettre image et schéma
 
 ## Installation
-Créer un nouveau repertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino.
-Y placer tous les fichiers.
+Créer un nouveau repertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino (c://Documents/Arduino/librairies).
+Y placer tous les fichiers en cliquant sur le bouton "Code" puis "Download ZIP".
 
 
 ## Usage
-Pour utiliser la librairie dans votre propre projet, importer la avec  *Sketch > Import Library*.
+Pour utiliser la librairie dans votre propre projet, importez-la avec *Sketch > Import Library* (ou à partir de la version 1.813 de l'IDE Arduino avec *Croquis > Inclure une bibliothèque > Ajouter la bibliothèque ZIP*).
 
 Exemple :
 
